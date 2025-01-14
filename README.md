@@ -1,2 +1,2 @@
 # LeicaBlurMark
-XiaoMi-Leica Watermark Blur effect
+Xiaomi-Leica Watermark Blur effect
